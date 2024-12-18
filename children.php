@@ -28,7 +28,7 @@ foreach($children as $child) {
 }
 
 echo "</ul>
-    <footer>Wishing you a joyful holiday season! ⛄</footer>
+  
 </body>
 </html>";
 
