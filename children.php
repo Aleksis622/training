@@ -20,7 +20,7 @@ echo "<!DOCTYPE html>
     <link rel='stylesheet' href='style_children.css'>
 </head>
 <body>
-    <h1>🎄 Merry Christmas! 🎅</h1>
+    <h1>🎄 Bērnu saraksts 🎅</h1>
     <ul>";
 
 foreach($children as $child) {
